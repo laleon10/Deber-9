@@ -1,5 +1,9 @@
 # Deber-9
-#OBJETIVOS 
+# MARCO TEORICO
+* En la aplicación de circuito, se trabajará con el circuito de sintonización resonante en el amplificador de RF de un receptor de radio de AM. El circuito de sintonización se utiliza para seleccionar cualquier frecuencia deseada dentro de la banda de AM de modo que pueda sintonizarse una estación deseada.
+* En la aplicación de un circuito, se graficarán las respuestas de filtros a la frecuencia con base en mediciones de osciloscopio y se identificarán los tipos de filtro.Los filtros pasivos se estudian en este capítulo. Los filtros pasivos utilizan varias combinaciones de resistores, capacitores e inductores. En un curso posterior se estudiarán los filtros activos que utilizan componentes pasivos combinados con amplificadores. Ya vimos de qué manera se pueden utilizar los circuitos RC, RL y RLC básicos como filtros. Ahora, usted aprenderá que los filtros pasivos pueden clasificarse en cuatro categorías generales de acuerdo con sus características de respuesta: pasabajas, pasaaltas, pasabanda y rechazabanda.
+
+# OBJETIVOS 
 
 **Objetivo general**
 
